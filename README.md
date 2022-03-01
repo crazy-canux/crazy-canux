@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/14313415/137871599-d772a03d-8afe-4907-abb1-9dfa6797b70e.jpg" width="260" />
-  <img src="https://user-images.githubusercontent.com/14313415/137871605-32dba270-6e70-411c-95df-dd2c96810dab.jpg" width="260" /> 
   <img src="https://user-images.githubusercontent.com/14313415/137871613-9e419161-859a-416b-a949-630915128d5e.jpg" width="260" />
 </p>
